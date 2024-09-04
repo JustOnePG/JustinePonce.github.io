@@ -9,105 +9,93 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "JustOnePG", "url": "https://github.com/JustOnePG/ProfessionalPortfolio.github.io" },
       { "network": "linkedin", "username": "Justine Ponce", "url": "www.linkedin.com/in/justineponce2003" }
      
       
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Welding" },
+    { "name": "Python" },
+    { "name": "Hiking" },
+    { "name": "Video Games" },
+    { "name": "Cars" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "TypeScript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Linux", "Ubuntu", "Git/GitHub", "Git Bash", "VS Code" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-08",
       "endDate": "Present",
-      "courses": [
+      "courses": ["EE160", "EE260", "EE205", "EE211", "EE213", "EE361", "EE362", "EE367"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Goodyear",
+      "position": "Sales Associate",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2022-04,
+      "endDate": "2023-08",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Handled customer complaints with respect and resolution",
+        "Anticipate and promptly respond to customers' needs",
+        "Produced estimates and explanations to customers of their vehicle needs",
+        "Provided customer satisfaction with insights and knowledge of their vehicles"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Lowes",
+      "position": "Reciever/Stocker Overnight",
+      "website": "",
+      "startDate": "2021-11",
+      "endDate": "2022-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Carried 50+ pounds of merchandise continuously",
+        "Carefully unload and stock merchandise with minimal to no damage"
       ]
     },
     {
-      "organization": "",
+      "company": "Pizza Hut",
+      "position": "Customer Service",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2021-05",
+      "endDate": "2021-08",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Provided friendly and quick response to customers over the phone",
+        "Marketed special offers and sales to customers in Mainland and Hawaii",
+        "Provided quick resolution and satisfied customer complaints"
       ]
     }
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2021-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Eugene F Marchal Endowed Scholarship",
+      "date": "2024",
+      "awarder": "Eugene F Marchal",
+      "summary": "The purpose of this fund is to provide scholarship assistance to students enrolled at the University of Hawai'i at Manoa College of Engineering. Funds shall be used for costs associated with attendance (e.g. tuition, books, fees, etc.)."
     }
   ],
   "references": [
