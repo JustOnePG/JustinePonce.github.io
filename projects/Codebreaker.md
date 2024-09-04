@@ -13,7 +13,7 @@ summary: "An NSA Challenge to find a Hacker using various tools"
 ---
 
 
-<img class="img-fluid" src="../img/codebreakerheader.jpg">
+<img class="img-fluid" src="../img/codebreakerheader.jpg" width="500">
 
 Codebreaker is a challenge given by the NSA that consists of various tasks. The goal is to find the hacker who breached security measures and stole private data. I will explain each task and what I did to complete the challenge.
 
