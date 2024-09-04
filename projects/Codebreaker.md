@@ -8,7 +8,7 @@ date: 2022-08-26
 published: true
 labels:
   - GitHub
-  - -Wireshark
+  - Wireshark
 summary: "An NSA Challenge to find a Hacker using various tools"
 ---
 
