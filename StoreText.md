@@ -1,7 +1,7 @@
 ---
 layout: Store User and Password
 type: project
-image: img/cotton/cotton-square.png
+image: img/python.jpg
 title: "Store User and Password"
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-6
