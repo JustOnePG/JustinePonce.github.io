@@ -11,6 +11,7 @@ labels:
   - GitHub
 summary: "I build a program that will use a text file as a database to store username and password."
 ---
+<img class="img-fluid" src="../img/python.jpg">
 
 <h2> Rules </h2>
 <ul>
