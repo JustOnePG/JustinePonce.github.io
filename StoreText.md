@@ -41,7 +41,7 @@ up, change password, or quit.
 <h2> Code </h2>
 <pre>
 <code>
-  username = []
+username = []
 password = []
 u = username.append(input('Enter a Username: '))
 p = password.append(input('Enter a Paswword: '))
@@ -113,6 +113,9 @@ while True:
                                                 else:
                                                     print('Password entered not the same. Please reenter your password')
                                                     pas1 = input()
+            
+        
+
     elif option == '2':
         print('Enter username')
         user = input()
@@ -162,14 +165,16 @@ while True:
                                     print('The password you entered is valid') 
                                     password.append(pas) 
                                     keepgoing == False
+            
     elif option == 'q' or 'Q':
         break
+
     else:
         print('Press 1 to sign up')
         print('Press 2 to change password')
         print('Press Q or q to quit')
         option = input()
-        break                 
+        break
 </code>
 </pre>
 
