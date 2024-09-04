@@ -39,9 +39,10 @@ up, change password, or quit.
 </ul>
 
 <h2> Code </h2>
+
 <pre>
-<code>
-username = []
+  <code>
+    username = []
 password = []
 u = username.append(input('Enter a Username: '))
 p = password.append(input('Enter a Paswword: '))
@@ -175,8 +176,7 @@ while True:
         print('Press Q or q to quit')
         option = input()
         break
-</code>
+  </code>
 </pre>
-
 <h2> :( I never got it to work </h2>
 
