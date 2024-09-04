@@ -39,6 +39,7 @@ up, change password, or quit.
 </ul>
 
 <h2> Code </h2>
+
 <code>
   username = []
 password = []
@@ -168,8 +169,8 @@ while True:
         print('Press 2 to change password')
         print('Press Q or q to quit')
         option = input()
-        break
-                          
+        break                 
 </code>
+
 <h2> :( I never got it to work </h2>
 
