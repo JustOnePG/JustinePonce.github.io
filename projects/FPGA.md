@@ -16,20 +16,10 @@ summary: "Implement an arithmetic logic unit to ALU and then implement the ALU t
 
 <img class="img-fluid" src="../img/FPGABoard/FPGA.jpg">
 
-<h2> Introduction </h2>
-	As described in the abstract we have two tasks. Three PDF files are given to us. 
-EE361L-Lab5-FPGA [1]: This will be our main lab manual it talks about our tasks/assignments.
-Xilinx Vivado Installation Instructions [2]: This file contains the instructions on how to install Xilinx Vivado on your personal computer.
-TutorialArtix-7Basys3 [3]: This is a tutorial on how to use the webpack software tool, Xilinx Vivado, to code SystemVerilogs, and implement it to the FPGA. 
-The first task will be my second paragraph, the second task coding part will be the third paragraph, the FPGA board interaction will be my fourth paragraph and my last will be the conclusion and references.
-Vivado and FPGA
-	This task only consists of us following the tutorial files given to us. The first tutorial is the installation of Xilinx Vivado [2]. You don’t necessarily need to download it if you are going to use the school computers since it’s already been pre-installed. This tutorial is only if you want it on your personal computer. Just letting you know, it’s around 20 gigabytes. The second PDF tutorial [3], is a must-read file. This talks about how to set up our lab in Vivado. The settings we have to choose, how to write and implement SystemVerilog codes, how to connect it to the FPGA so that the switches, LEDs, and buttons, work as intended. So, the tutorial files are a must-read to successfully do this lab. 
-
-
 <h2> ALU Circuit </h2>
-Upon looking at the lab manual [1], we are given an ALU to build in SystemVerilog. 
+We are given an ALU to build in SystemVerilog. 
 
-Now looking at the circuit there a 3 different circuits within the circuit, the Register circuit, an ALU circuit, and a Multiplexer circuit.
+Now looking at the circuit there is a 3 different circuits within the circuit, the Register circuit, an ALU circuit, and a Multiplexer circuit.
 	There are three three registers that we need, RegA, RegB, and RegY. All three of them synchronize with the clock signal of the FPGA board. RegY will always load a value for the Mux input, so it behaves like a 4D flip-flop. 
 
 From the table, we know that every time the input ‘CLR’ is 1, the register is cleared. If ‘CLR’ is 0 and ‘LD’ is 1 then the register will load a new value. If both are 0, then the register holds its current value. Upon knowing this, we can build a Register Function.
@@ -63,4 +53,4 @@ All the registers would be at 0 and the switches are off. Now if you flip the sw
 
 When switches 2 to 5 are flipped, registers A and B will output 1 while register Y will output 0. In the MUX function, when M = 1, the LED corresponding to the M will turn on. Now if you turn on switches 3 to 6, you get the LEDs turned on.
 
-The switches 3 to 6 turn on LEDs[0], LEDs[1], and LEDs[2]. Meaning that the output of regA, regB, and regY is equal to 1. However, the last LED is always off because back in the mux function, the very last M is equal to 0. And now we have finished the lab.
+The switches 3 to 6 turn on LEDs[0], LEDs[1], and LEDs[2]. Meaning that the output of regA, regB, and regY is equal to 1. However, the last LED is always off because back in the mux function, the very last M is equal to 0.
