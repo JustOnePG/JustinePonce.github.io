@@ -5,7 +5,7 @@ image: img/codebreakerheader.jpg
 title: "Codebreaker"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-26
-published: false
+published: true
 labels:
   - GitHub
   - -Wireshark
