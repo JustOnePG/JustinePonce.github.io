@@ -39,7 +39,7 @@ up, change password, or quit.
 </ul>
 
 <h2> Code </h2>
-
+<pre>
 <code>
   username = []
 password = []
@@ -171,6 +171,7 @@ while True:
         option = input()
         break                 
 </code>
+</pre>
 
 <h2> :( I never got it to work </h2>
 
