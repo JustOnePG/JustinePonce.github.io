@@ -2,8 +2,6 @@
 layout: NSA Codebreaker Challenge
 type: project
 image: img/codebreakerheader.jpg
-
-
 title: "Codebreaker"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-26
@@ -13,7 +11,8 @@ labels:
   - GitHub
 summary: "An NSA Challenge to find a Hacker using various tools"
 ---
-<img class="img-fluid" src="../img/codebreakerheader.jpg
-">
+
+
+<img class="img-fluid" src="../img/codebreakerheader.jpg">
 
 
