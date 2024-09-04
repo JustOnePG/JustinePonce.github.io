@@ -1,7 +1,7 @@
 ---
 layout: NSA Codebreaker Challenge
 type: project
-image: img/codebreakerheader.JPG
+image: img/codebreakerheader.jpg
 
 
 title: "Codebreaker"
@@ -13,7 +13,7 @@ labels:
   - GitHub
 summary: "An NSA Challenge to find a Hacker using various tools"
 ---
-<img class="img-fluid" src="../img/codebreakerheader.JPG
+<img class="img-fluid" src="../img/codebreakerheader.jpg
 ">
 
 
