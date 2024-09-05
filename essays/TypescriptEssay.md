@@ -9,9 +9,9 @@ labels:
   - Engineering
 ---
 
-img/RIP.png
-  # const TypeRIP =  (Essay: Professional) => {
+<img width="200px" class="rounded float-start pe-4" src="../img/RIP.png">
 
+  # const TypeRIP =  (Essay: Professional) => {
   **return console.log("**
   Javascript with syntax types?! So thats it? What, were some kind of Typescript. 
   That's what I think of typescript, like some suicide squad. You write an a Java code, 
