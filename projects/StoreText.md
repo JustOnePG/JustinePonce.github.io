@@ -1,5 +1,5 @@
 ---
-layout: Store User and Password
+layout: Store Strings
 type: Final Project
 image: img/python.jpg
 title: "Store User and Password"
