@@ -1,7 +1,7 @@
 ---
 layout: FPGA Board
 type: project
-image: img/FPGABoard/FPGA.jpg
+image: img/FPGAsquare.jpg
 title: "FPGA Board"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-28
