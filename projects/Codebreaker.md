@@ -1,5 +1,5 @@
 ---
-layout: NSA Codebreaker Challenge
+layout: project
 type: project
 image: img/codebreakersquare.JPG
 title: "Codebreaker"
