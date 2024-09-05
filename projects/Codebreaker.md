@@ -1,7 +1,7 @@
 ---
 layout: NSA Codebreaker Challenge
 type: project
-image: img/codebreakerheader.jpg
+image: img/codebreakerheader.jpg width=500
 title: "Codebreaker"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-26
