@@ -1,5 +1,5 @@
 ---
-layout: Store Strings
+layout: project
 type: project
 image: img/pythonsquare.jpg
 title: "Store User and Password"
