@@ -27,4 +27,4 @@ I was not alone on this project. I had a partner di the other half of setting up
 I found that the FPGAs were very cool to learn. It’s cool to see how the code that we build is implemented into something that we can interact with in real life and not just get a printout of the output. In conclusion, the project was amazing and I actually got to implement codes to program and device.
 
 
-<a href="ProjectFiles/Report for Fall 2023 EE 361L Lab 5.pdf">Click for more information!</a>
+<a href="ProjectFiles/Report_for_Fall_2023_EE_361L_Lab_5.pdf">Click for more information!</a>
