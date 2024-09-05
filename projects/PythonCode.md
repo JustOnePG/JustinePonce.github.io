@@ -1,6 +1,6 @@
 <pre>
   <code>
-    username = []
+username = []
 password = []
 u = username.append(input('Enter a Username: '))
 p = password.append(input('Enter a Paswword: '))
