@@ -25,4 +25,5 @@ I'm not going to lie, i had fun doing this project. I mean It was very frustrati
 
 
 <a href="/projects/PythonQuestion.png">Click for more information!</a>
+
 <a href="/projects/PythonCode.md">Click for my code!</a>
