@@ -1,5 +1,5 @@
 ---
-layout: FPGA Board
+layout: project
 type: project
 image: img/FPGAsquare.jpg
 title: "FPGA Board"
