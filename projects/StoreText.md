@@ -1,6 +1,6 @@
 ---
 layout: Store Strings
-type: Final Project
+type: project
 image: img/python.jpg
 title: "Store User and Password"
 # All dates must be YYYY-MM-DD format!
