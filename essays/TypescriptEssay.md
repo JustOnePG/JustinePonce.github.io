@@ -16,10 +16,7 @@ labels:
   
 Javascript with syntax types?! So thats it? What, were some kinds of Typescripts? 
 That's what I think of typescript, like some suicide squad. You write a Java code, 
-and if you don't specifically write what specific type it is, it dies. What, you wrote a number? 
-How do I know you actually wrote a number? Hmmmmm, what if you wrote a number that is not a number 
-but is a number? Hmmmmmmmmm. Did I write 'a' number? How would you know I wrote a number if I didn't
-specifically specify that I wrote a number? Yep. This is a professional Essay. Since I specified that it's a constant Professional Essay, it must be a constant professional essay. Why else would I specify otherwise?
+and if you don't specifically write what specific type it is, it dies. I specified that this Essay type is Professional. 
 
 This is my first time doing javascript and typescript. I first finished the Pregame Introduction to Javascript thinking it was the one that was required to do but it wasn't. So,  I had to redo another 100+ tutorials. The FreeCodeCamp was a lot easier to do since they are very similar to each other. When I finally got to Typescript, I thought "WOW!! It's the same thing." I thought it would be different, so  doing the practice WODs I didn't really have a problem doing them. Overall, I need to experience more of Typescript to form a more cohesive opinion about it. 
 
