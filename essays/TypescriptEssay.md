@@ -9,6 +9,7 @@ labels:
   - Engineering
 ---
 
+
 Javascript with syntax types?! So thats it? What, were some kind of Typescript. 
 That's what I think of typescript, like some suicide squad. You write an a Java code, 
 and if you don't specifically write what specific type it is, it dies. What, you wrote a number? 
