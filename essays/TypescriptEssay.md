@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "TypeRIP"
+title: "TypeRIP: Professional Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-04
 published: true
@@ -9,6 +9,7 @@ labels:
   - Engineering
 ---
 
+<title> TypeRIP: Professional Essay </title>
 
 Javascript with syntax types?! So thats it? What, were some kind of Typescript. 
 That's what I think of typescript, like some suicide squad. You write an a Java code, 
