@@ -9,6 +9,7 @@ labels:
   - Engineering
 ---
 
+img/RIP.png
   # const TypeRIP =  (Essay: Professional) => {
 
   **return console.log("**
