@@ -8,16 +8,17 @@ published: true
 labels:
   - Engineering
 ---
-
-<title> TypeRIP: Professional Essay </title>
-
-Javascript with syntax types?! So thats it? What, were some kind of Typescript. 
-That's what I think of typescript, like some suicide squad. You write an a Java code, 
-and if you don't specifically write what specific type it is, it dies. What, you wrote a number? 
-How do I know you actually wrote a number? Hmmmmm, what if you wrote a number that is not a number 
-but is a number? Hmmmmmmmmm. Did I write 'a' number? How would you know I wrote a number if I didn't
-specifically specify that I wrote a number? Yep. This is a professional Essay. Since I specified that
-it's a Professional Essay, it must be a profesional Essay. Why else would I specify otherwise. 
+<head>
+  <title> TypeRIP: Professional Essay </title>
+    <body>
+      Javascript with syntax types?! So thats it? What, were some kind of Typescript. 
+      That's what I think of typescript, like some suicide squad. You write an a Java code, 
+      and if you don't specifically write what specific type it is, it dies. What, you wrote       a number? 
+      How do I know you actually wrote a number? Hmmmmm, what if you wrote a number that is        not a number 
+      but is a number? Hmmmmmmmmm. Did I write 'a' number? How would you know I wrote a            number if I didn't
+      specifically specify that I wrote a number? Yep. This is a professional Essay. Since I       specified that it's a Professional Essay, it must be a profesional Essay. Why else           would I specify otherwise.
+    </body>
+ 
 
 <h2> </h2>
 
