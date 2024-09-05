@@ -26,7 +26,7 @@ This is my first time doing javascript and typescript. I first finished the Preg
 I feel that the class structure is very confusing, to me anyways. There is barely any lecture and as you told, we will mostly be doing work and have to learn the materials ourselves. I know we have the course website that will guide us but that's it. We just read the each module and follow instructions. The WODs  sound very stressful and unfair. It's all or nothing. Specially when we have to learn them ourselves. But we will see. Maybe I need to get used to the change since I'm used to a regular class lectures. In conclusion, this class has it's own structure and maybe I just need to get used to it. 
 
 __")__
-  # }
+# }
 
 
 
