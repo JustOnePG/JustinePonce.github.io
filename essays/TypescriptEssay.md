@@ -14,7 +14,7 @@ labels:
 **const TypeRIP = (Essay: Professional) => {**
 **return "**
   
-Javascript with syntax types?! So thats it? What, were some kinds of Typescripts? 
+Javascript with syntax types?! So that's it? What, were some kinds of Typescripts? 
 That's what I think of typescript, like some suicide squad. You write a Java code, 
 and if you don't specifically write what specific type it is, it dies. I specified that this Essay type is Professional. 
 
