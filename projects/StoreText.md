@@ -26,8 +26,7 @@ I'm not going to lie, I had fun doing this project. I mean It was very frustrati
 <img class="img-fluid" src="../projects/PythonQuestion.png" width="500">
 
 ## My Code
-<pre>
-  <code>
+```ruby
 username = []
 password = []
 u = username.append(input('Enter a Username: '))
@@ -162,7 +161,6 @@ while True:
         print('Press Q or q to quit')
         option = input()
         break
-  </code>
-</pre>
+```
 
 
