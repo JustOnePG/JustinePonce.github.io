@@ -20,12 +20,13 @@
     { "name": "Python" },
     { "name": "Hiking" },
     { "name": "Video Games" },
-    { "name": "Cars" }
+    { "name": "Cars" },
+    { "name": "Vinland Saga"}
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "TypeScript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "TypeScript", "Python", "Welding" ]
     },
     {
       "name": "Toolsets/OS",
