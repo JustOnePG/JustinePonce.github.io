@@ -9,7 +9,7 @@ published: true
 labels:
   - GitHub
   - Wireshark
-summary: "An NSA Challenge to find a Hacker using various tools"
+summary: "An NSA challenge to find a Hacker using various tools. It consists of analyzing various websites and inspecting data logs for anything unusual."
 ---
 
 
@@ -31,4 +31,7 @@ In this task, we are given the attacker's demands in exchange for the stolen fil
 In this task, we have to analyze the backend website that we found in B1. I again used the web dev tools to analyze the website, upon analyzing I found a '.git' directory. To get the directory, I had to use a tool called 'GetTools' to extract the directory by cloning it. Upon cloning the directory, we had to look at the server files to see if there was anything left behind. I had to carefully look at the codes in the server files to find clues as to figure out how each file connects to one another. This part was really tricky because I had to follow the functions and their parameters which returns another parameter that leads to pathkeys. Upon, finding the final return to the path key, I reused to backend webpage and added in the path key which led me to the login URL that the attackers used. 
 
 <h1> End of the Project </h1>
-Unfortunately, we never got to finish the project because the other task required more experience and was a lot more complicated. So, our Professor only made us do the first four tasks. But, it was fun. I learned a lot of useful tools and experienced the process of cybersecurity.  
+Unfortunately, we never got to finish the project because the other task required more experience and was a lot more complicated. So, our Professor only made us do the first four tasks. But, it was fun. I learned a lot of useful tools and experienced the process of cybersecurity. Check the link below for more information.
+
+
+
