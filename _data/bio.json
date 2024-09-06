@@ -30,7 +30,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Linux", "Ubuntu", "Git/GitHub", "Git Bash", "VS Code" ]
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "Git Bash", "VS Code" ]
     }
   ],
   "education": [
