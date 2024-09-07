@@ -7,6 +7,8 @@ date: 2024-09-06
 published: true
 labels:
   - Engineering
+  - Hardware
+  - Software
 ---
 
 <img width="500" class="rounded float-start pe-4" src="../img/Reboot.jpg">
