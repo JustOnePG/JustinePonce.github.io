@@ -23,7 +23,7 @@ This project was individual. I used a lot of if-else statements to iterate and c
 I'm not going to lie, I had fun doing this project. I mean It was very frustrating but it was still very satisfying to do when you get a part right. I did this during my first year and I never had coding experience prior. So, I was proud of myself I could even make this. Unfortunately, I was unable to fully complete it. I was able to store usernames but the password kept looping even when it satisfied its requirement. I almost forgot about this project, but I'll fix it eventually when I have to time. 
 
 ## Project Rules
-<img class="img-fluid" src="../projects/PythonQuestion.png" width="500">
+<img class="img-fluid" src="../img/PythonQuestion.png" width="500">
 
 ## My Code
 ```ruby
