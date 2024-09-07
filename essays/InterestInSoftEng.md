@@ -11,7 +11,6 @@ labels:
 
 <img class="rounded float-start pe-4" src="../img/Reboot.jpg">
 
-<h2> Hard & Soft</h2>
 I'm going soft, I've always been hard. Hard as steel, now my wares are soft. I'm talking about hardware of course. My interest has always been in hardware. I've never dabbled in software, but the more I learn about it, the more I don't want to learn about it. Hardware is easy, you just plug and play with a bit of common sense. Software, however, you need to use your brain. It requires a lot of thinking, researching, praying, frustrating, dying, resurrecting, dying again, restarting, pretty much everything. But, since I learned about software, I now know hardware is nothing but a shell without the software. Softwares are the brains of the hardwares. It instructs them how to perform their tasks. So, now my interest has shifted to software, like a soft reboot.
 
 <h2> I Hope </h2>
