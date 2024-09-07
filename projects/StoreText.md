@@ -30,7 +30,7 @@ I'm not going to lie, I had fun doing this project. I mean It was very frustrati
 username = []
 password = []
 u = username.append(input('Enter a Username: '))
-p = password.append(input('Enter a Paswword: '))
+p = password.append(input('Enter a Password: '))
 
 print('Press 1 to sign up')
 print('Press 2 to change password')
