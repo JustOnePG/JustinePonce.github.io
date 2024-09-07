@@ -17,7 +17,8 @@ I'm going soft, I've always been hard. Hard as a steel, now my wares are soft. I
 <h2> I Hope </h2>
 In the future I hope to understand how softwares interact with their respective hardwares. I hope to experience more of building softwares to make hardwares do it's purpose like my FPGA project. The process to make a software work if extremely frustrating, I hope it gets less stressfull and is easier to cope the more experience I gain. Lastly, I just hope I get to be more confidence in my work. Frustrations comes from doubts, I hope doubting myself will be a thing in the past.
 
-<h2> </h2>
+<h2> End of the Beginning </h2>
+So, far my knowledge for softwares are deep as a puddle. But that's how you begin to make a pool, well in my case, bathtub size is enough, but that's not the point. My software engineering era just started. I can't expect myself to just know everything, I have to work for it, like playing an MMORPG game, grinding and repetition will gain me experience, no matter how boring and dull it is. So, my interest in software engineering might not be high, maybe just below mid, but that won't stop me from learning and gaining the skills necessary to move forward. 
 
 
 
