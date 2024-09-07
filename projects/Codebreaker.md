@@ -22,7 +22,7 @@ In this task, we are given the VPN log to look through. The VPN log consists of 
 Since each employee can only log in once, I looked at multiple connections at the same time.
 
 <h1> Task A2: Identifying the Attacker </h1>
-Here, packet logs of detected intrusions, In the logs, they were able to find SSL sessions going to the staging server and it could have been the transfer of the attackers' tools. In this task, I used a tool called 'Wireshark' to decrypt SSL sessions, and find their tools, and extract them. Then I had to open the file in the hex editor to remove the headers and extract the username of the owner of the file. 
+Here, packet logs of detected intrusions, In the logs, they were able to find SSL sessions going to the staging server and it could have been the transfer of the attackers' tools. In this task, I used a tool called 'Wireshark' to decrypt SSL sessions, find their tools, and extract them. Then I had to open the file in the hex editor to remove the headers and extract the username of the owner of the file. 
 
 <h1> Task B1: Information Gathering </h1>
 In this task, we are given the attacker's demands in exchange for the stolen files. The attackers left a website with their demands and an address to send 'RansomCoin'(bitcoin). To finish this task, we have to look at the network traffic built into my browser such as the web dev tools, to find any other ransomware websites. and H! and Behold! We find external requests to other sites the attackers used.
