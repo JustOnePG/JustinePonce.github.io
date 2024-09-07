@@ -7,6 +7,8 @@ date: 2024-09-04
 published: true
 labels:
   - Engineering
+  - TypeScript
+  - Professional
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/RIP.png">
