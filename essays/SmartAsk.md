@@ -11,6 +11,8 @@ labels:
   - Software
 ---
 
+<img width="500" class="rounded float-start pe-4" src="../img/Reboot.jpg">
+
 ## SMART WAY
 Did you know you can die by asking questions? Seriously, if you ask a question without thinking to the wrong person, there is a chance that person will kill you. 
 So, don't be killed by asking questions, that's a dumb way to die. Especially us, engineering students. Asking is the number one way of learning. The path we are taking 
