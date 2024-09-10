@@ -11,7 +11,7 @@ labels:
   - Software
 ---
 
-<img width="500" class="rounded float-start pe-4" src="../img/Dumbways2die.jpg">
+<img width="300" class="rounded float-start pe-4" src="../img/Dumbways2die.jpg">
 
 ## SMART WAY
 Did you know you can die by asking questions? Seriously, if you ask a question without thinking to the wrong person, there is a chance that person will kill you. 
