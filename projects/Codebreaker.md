@@ -9,6 +9,7 @@ published: true
 labels:
   - GitHub
   - Wireshark
+  - Cybersecurity
 summary: "An NSA challenge to find a Hacker using various tools. It consists of analyzing various websites and inspecting data logs for anything unusual."
 ---
 
