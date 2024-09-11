@@ -7,8 +7,8 @@ date: 2024-09-06
 published: true
 labels:
   - Engineering
-  - Hardware
-  - Software
+  - SMART Question
+  - Stack Overflow
 ---
 
 <img width="300" class="rounded float-start pe-4" src="../img/Dumbways2die.jpg">
