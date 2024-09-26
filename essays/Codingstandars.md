@@ -4,7 +4,7 @@ type: essay
 title: "Soft Reboot"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-025
-published: truem
+published: true
 labels:
   - Engineering
   - Standards
@@ -12,7 +12,15 @@ labels:
 ---
 ## Coding Standards
 
-Are very important in Coding. The standards can be abit annoying but it helps with the organization and readability of your code. In programming, most of the time, you will not be the only one working on the same tasks. You will have to update or fix an already existing code. It is vital for codes to be readable and organzed so that it can be easily read and know
+Are very important in Coding. The standards can be a bit annoying but it helps with the organization and readability of your code. In programming, most of the time, you will not be the only one working on the same tasks. You will have to update or fix an already existing code. Codes need to be readable and organized so that they can be easily read and the purpose of the code can be figured out. This allows others to maintain and update the code with ease.
+
+## Art Of Coding
+I do believe that coding standards help get you started to become more proficient with your art of coding. It guides you to be more organized and 
+
+
+
+
+
 Many people think of “coding standards” in a trivial way—i.e. minutae such as how many spaces to indent, or whether you place the close-curly-brace on a new line by itself.
 
 I, on the other hand, think that if you can only implement one software engineering technique to improve quality, it should be coding standards. Indeed, I believe some coding standards can actually help you learn a programming language. Do you agree?
