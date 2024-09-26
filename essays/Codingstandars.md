@@ -8,8 +8,8 @@ published: true
 labels:
   - Engineering
   - Standards
-    
 ---
+
 <img width="500" class="rounded float-start pe-4" src="../img/eslint.png">
 
 ## Coding Standards
