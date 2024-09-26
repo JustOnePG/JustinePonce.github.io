@@ -16,7 +16,7 @@ labels:
 
 ## Coding Standards
 
-What you need, we might have. Coding standards are very important in Coding. The standards can be a bit annoying but it helps with the organization and readability of your code. In programming, most of the time, you will not be the only one working on the same tasks. You will have to update or fix an already existing code. Codes need to be readable and organized so that they can be easily read and the purpose of the code can be figured out. This allows others to maintain and update the code with ease.
+What you need, we will annoy you to get it. Coding standards are very important in Coding. The standards can be a bit annoying but it helps with the organization and readability of your code. In programming, most of the time, you will not be the only one working on the same tasks. You will have to update or fix an already existing code. Codes need to be readable and organized so that they can be easily read and the purpose of the code can be figured out. This allows others to maintain and update the code with ease.
 
 ## Art Of Coding
 I do believe that coding standards help get you started to become more proficient with your art of coding. It guides you to be more organized and understandable. The coding standards help you figure out how to mold your own style of programming by enforcing the basics and nitpicking what you can do better so you get used to them. So, I do agree that coding standards help us learn programming languages by enforcing the basics.
