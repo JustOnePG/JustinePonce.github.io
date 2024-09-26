@@ -1,14 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "Art Of Coding"
+title: "Art of Coding"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-025
+date: 2024-09-25
 published: true
 labels:
   - Engineering
+  - Coding
   - Standards
 ---
+
 
 <img width="500" class="rounded float-start pe-4" src="../img/eslint.png">
 
