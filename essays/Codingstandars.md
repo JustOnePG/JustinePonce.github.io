@@ -10,8 +10,8 @@ labels:
   - Standards
     
 ---
+<img width="500" class="rounded float-start pe-4" src="../img/eslint.png">
 
-img/eslint.png
 ## Coding Standards
 
 Are very important in Coding. The standards can be a bit annoying but it helps with the organization and readability of your code. In programming, most of the time, you will not be the only one working on the same tasks. You will have to update or fix an already existing code. Codes need to be readable and organized so that they can be easily read and the purpose of the code can be figured out. This allows others to maintain and update the code with ease.
