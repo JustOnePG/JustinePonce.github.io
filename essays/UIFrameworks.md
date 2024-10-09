@@ -13,6 +13,6 @@ labels:
 ## UI Framework
 A coding language like no other. It can be very complicated to learn but when you get the gist of it, it's still frustrating. However, the use of it is worth learning. 
 ## Boostrap5
-This framework addas many icons, to the raw HTML and CSS. A website's goal is to catch the eye of a visitor and be organized that it is easy to navigate through. UI frame works such as Bootstrap 5 does just that, It is up to the software engineer to organize how it is used. So, the full benifit of UI Frameworks is dependent to the software engineer to use it wisely. 
+This framework adds many icons, to the raw HTML and CSS. A website's goal is to catch the eye of a visitor and be organized so that it is easy to navigate through. UI frameworks such as Bootstrap 5 do just that, It is up to the software engineer to organize how it is used. So, the full benefits of UI frameworks depend on the software engineer's ability to use them wisely. 
 ## MY Experience
-So far, UI Framework has been very frustrating to me, but so very well informative.
+So far, the UI Framework has been very frustrating to me, but it is very useful. The icons 
