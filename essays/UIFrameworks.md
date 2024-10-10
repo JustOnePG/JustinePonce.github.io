@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "World Wide Web"
+title: "UI Dreamwork"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-09
 published: true
@@ -13,7 +13,7 @@ labels:
 <img width="500px" class="rounded float-start pe-4" src="../img/Alohabeer.png">
 
 ## UI Framework
-Can help make life simpler if you are willing to learn. UI Frameworks provides many pre-built components needed to make a website such as icons, buttons, dropdowns, etc. They are prebuilt, but you have to learn how to implement them. Raw HTML and CSS do not have anything prebuilt, so you would have to build the icons yourself and implement them to your liking. That's what makes UI Frameworks worth learning, you don't have to create everything yourself, but only know how to implement them. So, UI Frameworks can make your life easier, if you are willing to learn how to implement it. 
+Can help make life simpler if you are willing to learn. UI Frameworks provides many pre-built components needed to make a website such as icons, buttons, dropdowns, etc. They are prebuilt, but you have to learn how to implement them. Raw HTML and CSS do not have anything prebuilt, so you would have to build the icons yourself and implement them to your liking. That's what makes UI Frameworks worth learning, you don't have to create everything yourself, but only know how to implement them. So, UI Frameworks can be a dream come true for website creation, when you learn to implement them.
 ## Boostrap5
 This framework adds many icons, to the raw HTML and CSS. A website's goal is to catch the eye of a visitor and be organized so that it is easy to navigate through. UI frameworks such as Bootstrap 5 do just that. It is up to the software engineer to organize how it is used. So, the full benefits of UI frameworks depend on the software engineer's ability to use them wisely. 
 ## MY Experience
