@@ -10,7 +10,7 @@ labels:
   - Bootstrap 5
   - Web Page
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/Alohabeer.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/Alohabeer.png">
 
 ## UI Framework
 Can help make life simpler if you are willing to learn. UI Frameworks provides many pre-built components needed to make a website such as icons, buttons, dropdowns, etc. They are prebuilt, but you have to learn how to implement them. Raw HTML and CSS do not have anything prebuilt, so you would have to build the icons yourself and implement them to your liking. That's what makes UI Frameworks worth learning, you don't have to create everything yourself, but only know how to implement them. So, UI Frameworks can make your life easier, if you are willing to learn how to implement it. 
