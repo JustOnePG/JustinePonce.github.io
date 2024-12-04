@@ -10,7 +10,7 @@ labels:
   - Coding
   - Patterns
 ---
-<img width="500" class="rounded float-start pe-4" src="../img/eslint.png">
+<img width="500" class="rounded float-start pe-4" src="../img/Mordandtwi.png">
 
 ## Design Pattern,
 I take you as my trusted guide in the world of code and logic. 
