@@ -27,7 +27,7 @@ Helping me find the state changes in another object in many such cases like WOD 
 Without your designs, a failure would I have been.
 But things have changed—I’ve started using ChatGPT to solve my problems. 
 It’s quick, easy, and gives me answers almost instantly, and I’ve started relying on it instead of your timeless designs. 
-It’s not your fault; I’ve just grown used to this new way of doing things. 
+It’s not your fault, I’ve just grown used to this new way of doing things. 
 Maybe one day I’ll come back to you, but for now, I need to move on.
 
 Yours Truly,
