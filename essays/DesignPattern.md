@@ -23,7 +23,7 @@ From my first line of code to my last project, I am committed to you. Till Desig
 
 I’m sorry, but I think it’s time to say goodbye. You’ve been my trusted partner in coding, helping me solve problems and build systems that worked beautifully. 
 I’ve learned so much from you, and you’ve always been there to guide me with your Observer. 
-Helping me find the state changes in another object, like how I found what was wrong with our database objects not showing on our final project website.
+Helping me find the state changes in another object in many such cases like WOD practices. Without your designs, a failure would I have been.
 But things have changed—I’ve started using ChatGPT to solve my problems. 
 It’s quick, easy, and gives me answers almost instantly, and I’ve started relying on it instead of your timeless designs. 
 It’s not your fault; I’ve just grown used to this new way of doing things. 
