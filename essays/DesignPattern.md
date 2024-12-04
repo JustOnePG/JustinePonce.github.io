@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Till Design Do Us Part"
 # All dates must be YYYY-MM-DD format!
-date: 2024-11-03
+date: 2024-12-03
 published: true
 labels:
   - Design
