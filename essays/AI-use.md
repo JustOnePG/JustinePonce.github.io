@@ -24,4 +24,32 @@ I only used it once, which was the 'Till design do us part'. I only used it beca
 # Final Project
 For the final project, it was mostly copy-and-paste. I copied and pasted from pretty much all the practice Wods, Wods, and especially the Application designs. Then I just change the variables and make them all match. If it didn't work I used GitHub co-pilot to fix them and use it to format how I want the page to look like. I had no choice but to use a lot of it because I had to do 70% of the project. Everything on the search page including the student and company profile.
 
+# Tutorials
+Never used it because there is no point, if I could not do any of the tutorial modules, I would have given up
+
+# Answering a question in class or discord
+Never used it because I never 
+
+# Asking or answering smart-questions
+Never used it because I never asked or answered a smart question.
+
+# Coding Examples
+I don't know what this is referring to, but since it's an example, I probably no use it because I only use it if it's graded. 
+
+# Explaining Code
+Yes, most definitely. Every time I try to learn coding, I always just copy and paste the code and ask chatGPT or GitHub co-pilot to explain it. 
+
+# Writing Code
+Yes, I use it to write code because as I stated, coding is not for me.
+
+# Documenting code
+Yes, I use it to explain what a particular line of code does.
+
+# Quality Assurance
+Yes, no doubt. I always use it every time I get an error on our project.
+
+# Assignment Modules
+I never really used AI during assignment modules like the application design because the answer is already given, so I just watch it every time I get a problem.
+
+
 
