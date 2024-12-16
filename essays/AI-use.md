@@ -8,6 +8,8 @@ published: true
 labels:
   - AI
   - Coding
+  - ChatGPT
+  - GitHub co-pilot
 ---
 <img width="500" class="rounded float-start pe-4" src="../img/AIsecretinvasion@._V1_.jpg">
 
