@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "AI: Secret Invasion"
+title: "Reflection of a Mirror"
 # All dates must be YYYY-MM-DD format!
-date: 2024-12-15
+date: 2024-13-15
 published: true
 labels:
   - Development Environments
