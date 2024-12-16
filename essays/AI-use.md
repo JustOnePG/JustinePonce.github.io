@@ -9,7 +9,7 @@ labels:
   - AI
   - Coding
 ---
-
+<img src='public/AIsecretinvasion@._V1_.jpg' />
 # I. Introduction
 Ai is a blessing to many students including I, but deep down we all know it's a curse in disguise. Don't get me wrong, it definitely is helpful, but most of the time, we don't use it to learn, we use it to get grades. Throughout the semester, I have used chatGPT and GitHub co-pilot. This semester, I  have been very AI tool-reliant. I used it more than the rest of my previous semester combined. Well, it's because of this class. I'm not built for coding.
 
