@@ -53,8 +53,9 @@ Lastly, I created the company page. This includes company basic information, ope
 <h2> My Experiences </h2>
 Overall, I was surprised that it was actually quite fun making this website. It wasn't as stressful as I imagined. It was still stressful but when I got it right, the positive nullified the negative completely. I really don't know, it was just fun creating this website. When I got it working, it was the most satisfying feeling I had. In conclusion, even if I had to do most of the work, I don't feel mad or anything, it's just very satisfying to finish it. 
 
-Project Homepage: https://corponector.github.io/
 
-Project Website (Corponector): https://corponector.vercel.app/
+<a href="https://corponector.github.io/">Project Homepage</a>
 
-Website Source Code: https://github.com/corponector/sourceCode
+<a href="https://corponector.vercel.app/">Project Website (Corponector)</a>
+
+<a href="https://github.com/corponector/sourceCode">Website Source Code!</a>
