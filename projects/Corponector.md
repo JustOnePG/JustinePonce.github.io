@@ -26,19 +26,19 @@ I pretty much did everything on the search page.
 
 <img src="../img/M3searchpage-2.png" width="500"/>
 
-It can filter Students and Companies. Tags include Location, Skills, and Positions. Includes Student and Company Cards with basic information. Clicking Cards will go to their profile. Search by Student or Company name
+It can filter Students and Companies. The tags include Location, Skills, and Positions. The student and company cards include some information about their profile. You can also search for student and companies by their name.
 
 <img src="../img/M3studentprofile.png" width="500"/>
 
-Clicking on the student card will load the student profile which includes the student's basic information.
+Clicking on the student card will load the student profile page which includes the student's basic information and a link to their personal portfolio.
 
 <img src="../img/M3companyprofile.png" width="500"/>
 
-Clicking Company Card will load the company profile which includes company basic information and open positions for the company
+Clicking the company card will load the company profile page which includes company basic information and open positions for the company along with a link to their website.
 
 <img src="../img/M3editcurrentcompanyprofile-2.png" width="500"/>
 
-I also added the adding positions when creating a company profile, which you can add as many positions as you want.
+I also added the positions when creating a company profile. This allows companies to create as many open positions as they want.
 
 <img src="../img/M3currentcompanyprofile-1.png" width="500"/>
 
@@ -48,7 +48,7 @@ I also added the adding positions when creating a company profile, which you can
 
 <img src="../img/M3editcurrentcompanyprofile-2.png" width="500"/>
 
-Lastly, I created the company page. This includes company basic information, open positions for the company student card for recommended Students, and the edit page where you can edit your profile.
+Lastly, I created the company page. This includes company basic information, open positions, recommended student cards, and the edit button where you can edit profile information or add or remove positions.
 
 # My Experiences
 Overall, I was surprised that it was actually quite fun making this website. It wasn't as stressful as I imagined. It was still stressful but when I got it right, the positive nullified the negative completely. I really don't know, it was just fun creating this website. When I got it working, it was the most satisfying feeling I had. In conclusion, even if I had to do most of the work, I don't feel a grudge or anything, it's just very satisfying to finish it. 
