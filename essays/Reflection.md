@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Reflection of a Mirror"
 # All dates must be YYYY-MM-DD format!
-date: 2024-13-15
+date: 2024-12-16
 published: true
 labels:
   - Development Environments
