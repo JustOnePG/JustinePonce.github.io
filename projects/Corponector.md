@@ -21,27 +21,27 @@ It provides support admin oversight. The administrators will have the ability to
 
 # My Contribution
 I pretty much did everything on the search page.
-<img src="../img/M3Searchpage-1.png" />
-<img src="../img/M3searchpage-2.png" />
+<img src="../img/M3Searchpage-1.png" width="500"/>
+<img src="../img/M3searchpage-2.png" width="500"/>
 
 It can filter Students and Companies. Tags include Location, Skills, and Positions. Includes Student and Company Cards with basic information. Clicking Cards will go to their profile. Search by Student or Company name
 
-<img src="../img/M3studentprofile.png" />
+<img src="../img/M3studentprofile.png" width="500"/>
 
 Clicking on the student card will load the student profile which includes the student's basic information.
 
-<img src="../img/M3companyprofile.png" />
+<img src="../img/M3companyprofile.png" width="500"/>
 
 Clicking Company Card will load the company profile which includes company basic information and open positions for the company
 
-<img src="../img/M3editcurrentcompanyprofile-2.png" />
+<img src="../img/M3editcurrentcompanyprofile-2.png" width="500"/>
 
 I also added the adding positions when creating a company profile, which you can add as many positions as you want.
 
-<img src="../img/M3currentcompanyprofile-1.png" />
-<img src="../img/M3currentcompanyprofile-2.png" />
-<img src="../img/M3editcurrentcompanypage-1.png" />
-<img src="../img/M3editcurrentcompanyprofile-2.png" />
+<img src="../img/M3currentcompanyprofile-1.png" width="500"/>
+<img src="../img/M3currentcompanyprofile-2.png" width="500"/>
+<img src="../img/M3editcurrentcompanypage-1.png" width="500"/>
+<img src="../img/M3editcurrentcompanyprofile-2.png" width="500"/>
 Lastly, I created the company page. This includes company basic information, open positions for the company student card for recommended Students, and the edit page where you can edit your profile.
 
 # My Experiences
