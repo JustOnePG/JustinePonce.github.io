@@ -9,7 +9,7 @@ published: true
 labels:
   - Final Project
   - GitHub
-  - Cybersecurity
+  - Website Creation
 summary: "The Corponector web application provides a new way for local and non-local companies who want to recruit students from UH to make their (potential) opportunities known to students."
 ---
 
