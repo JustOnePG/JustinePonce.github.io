@@ -15,7 +15,7 @@ summary: "The Corponector web application provides a new way for local and non-l
 
 <h2> Project Information </h2> 
 The primary goals of this project are to enhance Job and Internship Visibility and make it easy for students to explore a wide range of opportunities from numerous companies.
-It will also streamline connections so that it allow companies to post details about potential positions and recruit students with the necessary skills and interests.
+It will also streamline connections so that it allows companies to post details about potential positions and recruit students with the necessary skills and interests.
 It will match skills and interests. It enables students to create profiles with their skills and career preferences, while companies can specify the skills they look for in candidates.
 It provides support admin oversight. The administrators will have the ability to monitor site content, add new skill or location categories, and manage the platform. At the same time, students can create profiles on the site with their interests. The site can match students to employers and vice-versa.
 
