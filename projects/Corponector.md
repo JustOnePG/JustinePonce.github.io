@@ -48,7 +48,7 @@ I also added the positions when creating a company profile. This allows companie
 
 <img src="../img/M3editcurrentcompanyprofile-2.png" width="500"/>
 
-Lastly, I created the company page. This includes company basic information, open positions, recommended student cards, and the edit button where you can edit profile information or add or remove positions.
+Lastly, I created the company page. This includes company basic information, open positions, recommended student cards, and the edit button where you can edit profile information or add and remove positions.
 
 # My Experiences
-Overall, I was surprised that it was actually quite fun making this website. It wasn't as stressful as I imagined. It was still stressful but when I got it right, the positive nullified the negative completely. I really don't know, it was just fun creating this website. When I got it working, it was the most satisfying feeling I had. In conclusion, even if I had to do most of the work, I don't feel a grudge or anything, it's just very satisfying to finish it. 
+Overall, I was surprised that it was actually quite fun making this website. It wasn't as stressful as I imagined. It was still stressful but when I got it right, the positive nullified the negative completely. I really don't know, it was just fun creating this website. When I got it working, it was the most satisfying feeling I had. In conclusion, even if I had to do most of the work, I don't feel mad or anything, it's just very satisfying to finish it. 
