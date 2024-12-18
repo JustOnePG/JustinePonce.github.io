@@ -13,13 +13,13 @@ labels:
 summary: "The Corponector web application provides a new way for local and non-local companies who want to recruit students from UH to make their (potential) opportunities known to students."
 ---
 
-# Project Information
+<h2> Project Information </h2> 
 The primary goals of this project are to enhance Job and Internship Visibility and make it easy for students to explore a wide range of opportunities from numerous companies.
 It will also streamline connections so that it allow companies to post details about potential positions and recruit students with the necessary skills and interests.
 It will match skills and interests. It enables students to create profiles with their skills and career preferences, while companies can specify the skills they look for in candidates.
 It provides support admin oversight. The administrators will have the ability to monitor site content, add new skill or location categories, and manage the platform. At the same time, students can create profiles on the site with their interests. The site can match students to employers and vice-versa.
 
-# My Contribution
+<h2>My Contribution </h2> 
 I pretty much did everything on the search page.
 
 <img src="../img/M3Searchpage-1.png" width="500"/>
@@ -50,5 +50,5 @@ I also added the positions when creating a company profile. This allows companie
 
 Lastly, I created the company page. This includes company basic information, open positions, recommended student cards, and the edit button where you can edit profile information or add and remove positions.
 
-# My Experiences
+<h2> My Experiences </h2>
 Overall, I was surprised that it was actually quite fun making this website. It wasn't as stressful as I imagined. It was still stressful but when I got it right, the positive nullified the negative completely. I really don't know, it was just fun creating this website. When I got it working, it was the most satisfying feeling I had. In conclusion, even if I had to do most of the work, I don't feel mad or anything, it's just very satisfying to finish it. 
