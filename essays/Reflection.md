@@ -11,6 +11,8 @@ labels:
   - Application Design
 ---
 
+<img src="img/black-solid-background-2920-x-1642-17wdacb1vs7blvtm.jpg" />
+
 # Mirror Mirror On The Wall
 
 Who's the deceiver of them all? AI of course. Seriously though, this is more than just the usage of AI. I didn't take this class seriously because I can just use AI, and I'm in computer engineering so, web development isn't really my thing. But, it doesn't mean I didn't learn anything. The two things that interested me in this class was the development environments and agile project Management.
